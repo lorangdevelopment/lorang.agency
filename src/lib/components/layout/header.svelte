@@ -6,13 +6,14 @@
 <header class="fixed inset-0 z-100 h-[var(--header-height)] w-full backdrop-blur-[10px]">
 	<div class="flex h-full w-full justify-between">
 		<div class="flex h-full">
-			<div class="flex flex-row gap-8 ml-10">
+			<div class="ml-10 flex flex-row gap-8">
 				<span class="relative flex items-center">Spring/Summer™</span>
 			</div>
 		</div>
 		<nav class="flex h-full">
 			<ul class="flex flex-row gap-8">
-				<li class="group relative flex items-center">
+				<!--
+								<li class="group relative flex items-center">
 					<a
 						class="underline-offset-[1.5px] group-hover:underline"
 						href="/ecommerce"
@@ -20,6 +21,7 @@
 						>eCommerce</a
 					>
 				</li>
+				-->
 				<li class="group relative flex items-center">
 					<a
 						class="underline-offset-[1.5px] group-hover:underline"

@@ -10,7 +10,7 @@
 		--black: hsl(var(--color-black));
 
 		--header-height: 50px;
-		--modal-width: 200px;
+		--modal-width: 255px;
 	}
 
 	body {
@@ -18,6 +18,7 @@
 		--background-color: var(--theme-background-color, var(--color-white));
 		background-color: hsl(var(--background-color));
 		color: hsl(var(--text-color));
+
 		font-size: 13.5px;
 		letter-spacing: 0.368px;
 		line-height: 1.3;
